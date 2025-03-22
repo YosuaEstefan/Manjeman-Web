@@ -4,7 +4,7 @@ Sistem Manajemen Barang menggunakan **Golang + Gin** yang telah berhasil dideplo
 
 ## 📂 **Struktur Proyek**
 ```
-inventory-api/
+Mnajemen Sistem/
 │── main.go
 │── go.mod
 │── go.sum
